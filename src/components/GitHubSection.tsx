@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 
 const GitHubSection = () => {
-  const username = 'johndoe'; // Replace with actual GitHub username
+  const username = 'prince87652'; // Replace with actual GitHub username
 
   return (
     <section className="py-20 md:py-32 relative">
