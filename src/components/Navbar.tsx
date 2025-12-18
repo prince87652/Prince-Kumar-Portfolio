@@ -73,7 +73,7 @@ const Navbar = () => {
             <Button
               variant="glow"
               size="sm"
-              onClick={() => window.open('https://drive.google.com/file/d/your-resume-id/view', '_blank')}
+              onClick={() => window.open('https://drive.google.com/file/d/1bC3WKru8ZghgYq4ibFMP331o7n4xTFjK/view?usp=sharing', '_blank')}
               className="gap-2"
             >
               <FileText className="w-4 h-4" />
@@ -120,7 +120,7 @@ const Navbar = () => {
               ))}
               <Button
                 variant="glow"
-                onClick={() => window.open('https://drive.google.com/file/d/your-resume-id/view', '_blank')}
+                onClick={() => window.open('https://drive.google.com/file/d/1bC3WKru8ZghgYq4ibFMP331o7n4xTFjK/view?usp=sharing', '_blank')}
                 className="gap-2 w-full mt-2"
               >
                 <FileText className="w-4 h-4" />
