@@ -5,6 +5,7 @@ import GitHubSection from '@/components/GitHubSection';
 import TechStackSection from '@/components/TechStackSection';
 import ContactSection from '@/components/ContactSection';
 import Footer from '@/components/Footer';
+import AboutSection from '@/components/AboutSection';
 
 const Index = () => {
   return (
@@ -12,6 +13,7 @@ const Index = () => {
       <Navbar />
       <main>
         <HeroSection />
+        <AboutSection/>
         <TechStackSection />
         <ProjectsSection />
         <GitHubSection />
